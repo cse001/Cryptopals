@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #The code that lists out all the possible outcomes of caeser cipher
 #Uses prettytable - pip3 install prettytable
 #Uses python 3
